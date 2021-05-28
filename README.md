@@ -5,7 +5,7 @@ _Hey developers, we're glad to have you here! Before you start contributing to t
 These repositories are made by MUJ ACM S-Chap to help developers like you get started with Open Source.
 
 ## In This Repository
-In this repository we are using P5js to make some fun projects. To start with we have added tensorflows posenet into our P5 sketch using ML5. The current sketch tracks your eyes and nose, then draw shapes on it. We have also added a sample sketch which uses FFT( Fast Fourier Transform ) an analysis algorithm that isolates individual audio frequencies within a waveform and then plots a design based on pitch.
+In this repository we are using P5js to make some fun projects. To start with we have added Tensorflow's posenet into our P5 sketch using ML5. The current sketch tracks your eyes and nose, then draw shapes on it. We have also added a sample sketch which uses FFT(Fast Fourier Transform ) an analysis algorithm that isolates individual audio frequencies within a waveform and then plots a design based on pitch.
 You can add more sketch.js file like these in contributions folder.
 
 ## Reference
